@@ -1,3 +1,5 @@
+//File was exported from Solana Playground and converted for VSCde
+//TODO: view and edit test file
 import * as anchor from "@coral-xyz/anchor";
 import BN from "bn.js";
 import assert from "assert";
